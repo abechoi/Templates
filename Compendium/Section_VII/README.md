@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Section VII</h1>
-<h2>A Template for Section VII/h2>
+<h2>A Template for Section VII</h2>
 <p>By Abe Choi</p>
 </div>
 

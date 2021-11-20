@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Section V</h1>
-<h2>A Template for Section Vh2>
+<h2>A Template for Section V<h2>
 <p>By Abe Choi</p>
 </div>
 
