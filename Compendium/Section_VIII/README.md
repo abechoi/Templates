@@ -4,7 +4,7 @@
 <p>By Abe Choi</p>
 </div>
 
-<p>
+<p align="center">
 This is a template for Section VIII.
 </p>
 
