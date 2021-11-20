@@ -8,16 +8,17 @@
 This is a template for Section V.
 </p>
 
-1. (Chapter I)[#chapter-i]
-2. (Chapter II)[#chapter-ii]
-3. (Chapter III)[#chapter-iii]
-4. (Chapter IV)[#chapter-iv]
-5. (Chapter V)[#chapter-v]
-6. (Chapter VI)[#chapter-vi]
-7. (Chapter VII)[#chapter-vii]
-8. (Chapter VIII)[#chapter-viii]
-9. (Chapter IX)[#chapter-ix]
-10. (Chapter X)[#chapter-x]
+1.  [Chapter I](#chapter-i)
+2.  [Chapter II](#chapter-ii)
+3.  [Chapter III](#chapter-iii)
+4.  [Chapter IV](#chapter-iv)
+5.  [Chapter V](#chapter-v)
+6.  [Chapter VI](#chapter-vi)
+7.  [Chapter VII](#chapter-vii)
+8.  [Chapter VIII](#chapter-viii)
+9.  [Chapter IX](#chapter-ix)
+10. [Chapter X](#chapter-x)
+
 
 ## Chapter I
 
